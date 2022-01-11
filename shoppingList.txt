@@ -1,0 +1,8 @@
+List:
+
+Xilinx Basys 3
+Starting kit
+Sensor
+Capacitor
+Wiring
+PC for monitor
